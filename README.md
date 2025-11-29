@@ -4,10 +4,10 @@ Aspiring full-stack web developer focused on JavaScript, React, and building cle
 
 ![Metrics](https://metrics.lecoq.io/MarcusEcko)
 
-![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarcusEcko&theme=vue)
-![repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarcusEcko&theme=vue)
-![commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MarcusEcko&theme=vue)
-![stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarcusEcko&theme=vue)
+![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarcusEcko&theme=github_dark)
+![repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarcusEcko&theme=github_dark)
+![commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MarcusEcko&theme=github_dark)
+![stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarcusEcko&theme=github_dark)
 
 ## 🚀 About Me
 
