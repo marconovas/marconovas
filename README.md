@@ -2,7 +2,8 @@
 
 Aspiring full-stack web developer focused on JavaScript, React, and building clean, functional applications. I’m currently strengthening my foundations while creating projects that reflect good practices and steady growth.
 
-![Marco's Stats](https://github-readme-stats.vercel.app/api?username=MarcusEcko&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Marco's Stats]([https://github-readme-stats.vercel.app/api?username=MarcusEcko&theme=vue-dark&show_icons=true&hide_border=true&count_private=true](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TU_USUARIO_REAL&theme=vue-dark&show_icons=true&hide_border=true&count_private=true
+))
 
 ## 🚀 About Me
 
