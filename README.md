@@ -2,7 +2,7 @@
 
 Aspiring full-stack web developer focused on JavaScript, React, and building clean, functional applications. I’m currently strengthening my foundations while creating projects that reflect good practices and steady growth.
 
-![Marco's Metrics](https://metrics.lecoq.io/MarcusEcko)
+![Metrics](https://metrics.lecoq.io/MarcusEcko)
 
 ## 🚀 About Me
 
