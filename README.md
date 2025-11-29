@@ -2,7 +2,7 @@
 
 I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
-![<MarcusEcko>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![<MarcusEcko>'s Stats](https://github-readme-stats.vercel.app/api?username=<MarcusEcko>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
@@ -15,7 +15,7 @@ I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for 
 -🔍 Interested in clean architecture, problem-solving, and continuous improvement.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
 
 ## 🌱 Currently Learning
 
@@ -35,7 +35,7 @@ I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for 
 ## 📬 Get in Touch
 
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/marco-nicol%C3%A1s-novas-medina-214613356/)
-- Read more of my articles on [Gmail](marco.nicolas.novas@gmail.com)
+- Find me on [Gmail](marco.nicolas.novas@gmail.com)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
