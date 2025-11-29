@@ -2,17 +2,17 @@
 
 Aspiring full-stack web developer focused on JavaScript, React, and building clean, functional applications. I’m currently strengthening my foundations while creating projects that reflect good practices and steady growth.
 
-![MarcusEcko's Stats](https://github-readme-stats.vercel.app/api?username=MarcusEcko&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Marco's Stats](https://github-readme-stats.vercel.app/api?username=MarcusEcko&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
--📚 Engineering student with a strong interest in web development.
+- 📚 Engineering student with a strong interest in web development.
 
--💻 Working on personal projects to build a solid and professional portfolio.
+- 💻 Working on personal projects to build a solid and professional portfolio.
 
--🎯 Focused on mastering JavaScript, React, Git, and essential web technologies.
+- 🎯 Focused on mastering JavaScript, React, Git, and essential web technologies.
 
--🔍 Interested in clean architecture, problem-solving, and continuous improvement.
+- 🔍 Interested in clean architecture, problem-solving, and continuous improvement.
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,bootstrap,git,github)](https://skillicons.dev)
