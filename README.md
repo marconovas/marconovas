@@ -15,7 +15,7 @@ I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for 
 -🔍 Interested in clean architecture, problem-solving, and continuous improvement.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,bootstrap,git,github)](https://skillicons.dev)
 
 ## 🌱 Currently Learning
 
