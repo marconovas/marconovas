@@ -1,8 +1,8 @@
 # Hi, I'm Marco! 👋
 
-I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+Aspiring full-stack web developer focused on JavaScript, React, and building clean, functional applications. I’m currently strengthening my foundations while creating projects that reflect good practices and steady growth.
 
-![<MarcusEcko>'s Stats](https://github-readme-stats.vercel.app/api?username=<MarcusEcko>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![MarcusEcko's Stats](https://github-readme-stats.vercel.app/api?username=MarcusEcko&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
