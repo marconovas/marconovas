@@ -2,10 +2,10 @@
 
 Aspiring full-stack web developer focused on JavaScript, React, and building clean, functional applications. I’m currently strengthening my foundations while creating projects that reflect good practices and steady growth.
 
-![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarcusEcko&theme=github_dark)
-![repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarcusEcko&theme=github_dark)
-![commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MarcusEcko&theme=github_dark)
-![stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarcusEcko&theme=github_dark)
+![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marconovas&theme=github_dark)
+![repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marconovas&theme=github_dark)
+![commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marconovas&theme=github_dark)
+![stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marconovas&theme=github_dark)
 
 ## 🚀 About Me
 
