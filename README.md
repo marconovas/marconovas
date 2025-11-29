@@ -2,8 +2,6 @@
 
 Aspiring full-stack web developer focused on JavaScript, React, and building clean, functional applications. I’m currently strengthening my foundations while creating projects that reflect good practices and steady growth.
 
-![Metrics](https://metrics.lecoq.io/MarcusEcko)
-
 ![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarcusEcko&theme=github_dark)
 ![repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarcusEcko&theme=github_dark)
 ![commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MarcusEcko&theme=github_dark)
