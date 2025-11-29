@@ -35,7 +35,7 @@ Aspiring full-stack web developer focused on JavaScript, React, and building cle
 ## 📬 Get in Touch
 
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/marco-nicol%C3%A1s-novas-medina-214613356/)
-- Find me on [Gmail](marco.nicolas.novas@gmail.com)
+- Send me an e-mail: [Gmail](marco.nicolas.novas@gmail.com)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
