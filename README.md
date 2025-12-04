@@ -28,12 +28,10 @@ Aspiring full-stack web developer focused on JavaScript, React, and building cle
 
 - Full-stack workflow and deployment basics.
 
-- Strengthening mathematics and logic to improve problem-solving skills.
-
 - 🚀 Learning Full Stack Web Development
   - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
   - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
+  - Styling with Bootstrap to create modern and responsive user interfaces.
 
 ## 📬 Get in Touch
 
