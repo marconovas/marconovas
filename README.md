@@ -18,7 +18,7 @@ Aspiring full-stack web developer focused on JavaScript, React, and building cle
 - 🔍 Interested in clean architecture, problem-solving, and continuous improvement.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,react,bootstrap,vite,nodejs,express,postgres,prisma,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,bootstrap,nodejs,expressjs,postgres,prisma,git,github)](https://skillicons.dev)
 
 ## 🌱 Currently Learning
 
