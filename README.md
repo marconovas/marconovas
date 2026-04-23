@@ -1,58 +1,40 @@
-# Hi, I'm Marco! 👋
+# Marco Novas
 
-Aspiring full-stack web developer focused on JavaScript, React, and building clean, functional applications. I’m currently strengthening my foundations while creating projects that reflect good practices and steady growth.
+Full-stack web developer in training, focused on building scalable and maintainable applications using JavaScript technologies.  
+Currently strengthening backend development while consolidating solid frontend foundations.
 
 ![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marconovas&theme=github_dark)
 ![repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marconovas&theme=github_dark)
 ![commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marconovas&theme=github_dark)
 ![stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marconovas&theme=github_dark)
 
-## 🚀 About Me
+---
 
-- 📚 Engineering student with a strong interest in web development.
+## About Me
 
-- 💻 Working on personal projects to build a solid and professional portfolio.
+- Engineering student with a strong focus on web development  
+- Building personal projects with an emphasis on clean code and best practices  
+- Oriented towards full-stack development with JavaScript ecosystem  
+- Interested in backend architecture, APIs, and problem-solving  
 
-- 🎯 Focused on mastering JavaScript, React, Git, and essential web technologies.
-
-- 🔍 Interested in clean architecture, problem-solving, and continuous improvement.
+---
 
 ## Tech Stack
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,bootstrap,nodejs,expressjs,postgres,prisma,git,github)](https://skillicons.dev)
 
-## 🌱 Currently Learning
+---
 
-- React fundamentals: components, props, state, and hooks.
+## Current Focus
 
-- Building APIs and handling data flow.
+- Backend development with Node.js and Express  
+- API design and data handling  
+- Database integration with PostgreSQL and Prisma  
+- Strengthening full-stack workflow and project structure  
 
-- Full-stack workflow and deployment basics.
+---
 
-- 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Bootstrap to create modern and responsive user interfaces.
+## Contact
 
-## 📬 Get in Touch
-
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/marco-nicol%C3%A1s-novas-medina-214613356/)
-- Send me an e-mail: [Gmail](marco.nicolas.novas@gmail.com)
-
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
-
-
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+- LinkedIn: https://www.linkedin.com/in/marco-nicol%C3%A1s-novas-medina-214613356/  
+- Email: marco.nicolas.novas@gmail.com
