@@ -1,6 +1,6 @@
 # Marco Novas
 
-Full-stack web developer in training, focused on building scalable and maintainable applications using JavaScript technologies.  
+Trainee Full-stack web developer, focused on building scalable and maintainable applications using JavaScript technologies.  
 Currently strengthening backend development while consolidating solid frontend foundations.
 
 ![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marconovas&theme=github_dark)
@@ -24,7 +24,35 @@ Currently strengthening backend development while consolidating solid frontend f
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,bootstrap,nodejs,expressjs,postgres,prisma,git,github)](https://skillicons.dev)
 
 ---
+## Featured Projects
 
+### 🔹 Blog API (Backend)
+REST API with authentication, posts and comments management.  
+Built with Node.js, Express and Prisma, following a modular architecture.
+
+🔗 https://github.com/marconovas/node-prisma-blog-api
+
+---
+
+### 🔹 Memory Cards
+Flashcard application to create and study concepts with local persistence.  
+Focused on React fundamentals, state management and reusable components.
+
+🔗 https://github.com/marconovas/Memory-Cards
+
+---
+
+### 🔹 To-Do App
+Task management application with CRUD functionality and local persistence.  
+Focused on handling user input, state updates and dynamic rendering.
+
+🔗 https://github.com/marconovas/To-Do-App
+
+---
+
+*(More projects coming soon as I continue building and improving my stack)*
+
+---
 ## Current Focus
 
 - Backend development with Node.js and Express  
