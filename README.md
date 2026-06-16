@@ -21,7 +21,7 @@ Currently strengthening backend development while consolidating solid frontend f
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,bootstrap,nodejs,expressjs,postgres,prisma,firebase,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,bootstrap,nodejs,expressjs,postgres,firebase,prisma,git,github)](https://skillicons.dev)
 
 ---
 ## Featured Projects
