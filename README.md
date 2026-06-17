@@ -26,11 +26,18 @@ Currently strengthening backend development while consolidating solid frontend f
 ---
 ## Featured Projects
 
-### 🔹 Blog API (Backend)
+### 🔹Mini Blog (Frontend)
+Full stack mini blog platform built with React, Node.js, Express, Prisma and JWT authentication. 
+
+🔗 https://github.com/marconovas/mini-blog-platform
+
+---
+
+### 🔹Mini Blog API (Backend)
 REST API with authentication, posts and comments management.  
 Built with Node.js, Express and Prisma, following a modular architecture.
 
-🔗 https://github.com/marconovas/node-prisma-blog-api
+🔗 https://github.com/marconovas/mini-blog-api
 
 ---
 
