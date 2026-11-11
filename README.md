@@ -71,5 +71,5 @@ Focused on handling user input, state updates and dynamic rendering.
 
 ## Contact
 
-- LinkedIn: https://www.linkedin.com/in/marco-nicol%C3%A1s-novas-medina-214613356/  
+- LinkedIn: https://www.linkedin.com/in/marconovas  
 - Email: marco.nicolas.novas@gmail.com
